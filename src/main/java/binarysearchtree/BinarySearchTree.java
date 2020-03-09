@@ -1,7 +1,7 @@
 package binarysearchtree;
 
 /**
- * deletion not working properly
+ * Binary Search Tree
  */
 public class BinarySearchTree {
 
